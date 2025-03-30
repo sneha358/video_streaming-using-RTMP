@@ -62,4 +62,6 @@ __1.__ **start server**
 
 __2.__ **run python script for streaming**
 
-__3.__ **play in vlc**
+__3.__ **play in vlc** 
+
+Happy to learn
