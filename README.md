@@ -53,3 +53,10 @@ To watch video we need media player which support RTMP. Here we use VLC
 Paste RTMP url in vlc media player(more options --> new stream)
 
  rtmp://Your_SERVER_IP_address/live  
+
+# Steps to follow
+__1.__ **start server**
+
+__2.__ **run python script for streaming**
+
+__3.__ **play in vlc**
